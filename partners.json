@@ -2,21 +2,16 @@
   {
     "id": 1,
     "name": "partner_1",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_1.jpeg"
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_3.png"
   },
   {
     "id": 2,
     "name": "partner_2",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_3.png"
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_4.png"
   },
   {
     "id": 3,
     "name": "partner_3",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_4.png"
-  },
-  {
-    "id": 4,
-    "name": "partner_4",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_4.png"
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_3.png"
   }
 ]
