@@ -1,27 +1,22 @@
 [
-    {
-        "id": 1,
-        "name": "Program 1",
-        "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_1.jpeg"
-    },
-    {
-        "id": 2,
-        "name": "Program 2",
-        "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_2.png"
-    },
-    {
-        "id": 3,
-        "name": "Program 3",
-        "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_3.png"
-    },
-    {
-        "id": 4,
-        "name": "Program 4",
-        "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_4.png"
-    },
-    {
-        "id": 5,
-        "name": "Program 5",
-        "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_5.png"
-    }
+  {
+    "id": 1,
+    "name": "Program 1",
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Program 2",
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_2.png"
+  },
+  {
+    "id": 3,
+    "name": "Program 3",
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_3.png"
+  },
+  {
+    "id": 4,
+    "name": "Program 4",
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_4.png"
+  }
 ]
