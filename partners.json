@@ -1,27 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Program 1",
+    "name": "partner_1",
     "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_1.jpeg"
   },
   {
-    "id": 3,
-    "name": "Program 3",
+    "id": 2,
+    "name": "partner_2",
     "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_3.png"
   },
   {
-    "id": 4,
-    "name": "Program 4",
+    "id": 3,
+    "name": "partner_3",
     "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/program_4.png"
-  },
-  {
-    "id": 5,
-    "name": "4",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/4.png"
-  },
-  {
-    "id": 5,
-    "name": "4",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/4.png"
   }
 ]
