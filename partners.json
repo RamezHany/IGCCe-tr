@@ -12,41 +12,36 @@
   {
     "id": 3,
     "name": "partner_3",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_5.png"
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_6.png"
   },
   {
     "id": 4,
     "name": "partner_4",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_6.png"
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_7.png"
   },
   {
     "id": 5,
     "name": "partner_5",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_7.png"
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_8.png"
   },
   {
     "id": 6,
     "name": "partner_6",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_8.png"
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_10.png"
   },
   {
     "id": 7,
     "name": "partner_7",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_10.png"
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_13.png"
   },
   {
     "id": 8,
     "name": "partner_8",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_13.png"
+    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_14.png"
   },
   {
     "id": 9,
     "name": "partner_9",
-    "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_14.png"
-  },
-  {
-    "id": 10,
-    "name": "partner_10",
     "logo": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/partner_16.png"
   }
 ]
