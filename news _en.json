@@ -1,0 +1,96 @@
+{
+  "news": [
+    {
+      "id": "1740420037107",
+      "slug": "successful-governance-conference",
+      "image": [
+        {
+          "url": "/program_2.png",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "title": "Annual Governance Conference Success",
+      "shortDescription": "The Annual Governance Conference concludes with participation from experts worldwide",
+      "description": [
+        "The Annual Governance Conference has successfully concluded with over 500 participants.",
+        "The conference discussed the latest developments in corporate governance and global best practices.",
+        "Distinguished experts and specialists from around the world participated in the conference."
+      ],
+      "date": "2024-02-10"
+    },
+    {
+      "id": "2",
+      "slug": "rmzcff",
+      "title": "زغلول",
+      "title_en": "rmzcff",
+      "shortDescription": "الالالاؤمنيتا",
+      "description": [
+        "همعرثنهرنع"
+      ],
+      "image": [
+        {
+          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/rmzcff.png",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "date": "2025-02-23"
+    },
+    {
+      "id": "3",
+      "slug": "kjbbhhj",
+      "title": "hlkjnjk",
+      "title_en": "kjbbhhj",
+      "shortDescription": "hbbhjbhj",
+      "description": [
+        "iuhbuikb"
+      ],
+      "image": [
+        {
+          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/kjbbhhj.png",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "date": "2025-02-23"
+    },
+    {
+      "id": "1740341689842",
+      "slug": "successfulaaaa",
+      "image": [
+        {
+          "url": "/program_2.png",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "title": "Annual Governance opopopop",
+      "shortDescription": "The Annual Governance Conference concludes with participation from experts worldwide",
+      "description": [
+        "The Annual Governance Conference has successfully concluded with over 500 participants.",
+        "The conference discussed the latest developments in corporate governance and global best practices.",
+        "Distinguished experts and specialists from around the world participated in the conference."
+      ],
+      "date": "2024-02-10"
+    },
+    {
+      "id": "1",
+      "slug": "hjjhhhghjhhgj",
+      "title": "لالالالالاااالا",
+      "title_en": "hjjhhhghjhhgj",
+      "shortDescription": "frrgrgrg",
+      "description": [
+        "rrttrt"
+      ],
+      "image": [
+        {
+          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/hjjhhhghjhhgj.png",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "date": "2025-02-24"
+    }
+  ]
+}
