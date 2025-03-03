@@ -1,28 +1,6 @@
 {
   "news": [
     {
-      "id": "1741043692519",
-      "slug": "rmzcff",
-      "title": "Zaghoul",
-      "title_ar": "زغلول",
-      "shortDescription": "Lorem ipsum dolor sit amet",
-      "shortDescription_ar": "الالالاؤمنيتا",
-      "description": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      ],
-      "description_ar": [
-        "همعرثنهرنع"
-      ],
-      "image": [
-        {
-          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/rmzcff.png",
-          "width": 800,
-          "height": 600
-        }
-      ],
-      "date": "2025-02-23"
-    },
-    {
       "id": "2",
       "slug": "hjjhhhghjhhgj",
       "title": "Governance Training",
