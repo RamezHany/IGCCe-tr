@@ -113,6 +113,40 @@
         }
       ],
       "date": "2025-03-03"
+    },
+    {
+      "id": "1741043665947",
+      "slug": "takkween-advanced-industries-group---grc-2024",
+      "title": "Takkween Advanced Industries Group - GRC 2024",
+      "title_ar": "مجموعة تكوين المتطورة للصناعات - GRC 2024",
+      "shortDescription": "Dr. Nourhan Hassan’s Visit to Takkween in Saudi Arabia",
+      "shortDescription_ar": "زيارة د. نورهان حسن لمجموعة تكوين في المملكة العربية السعودية",
+      "description": [
+        "Dr. Nourhan Hassan’s Visit to Takkween in Saudi Arabia",
+        "",
+        "As part of efforts to enhance cooperation and develop governance and compliance systems, Takkween Advanced Industries Group in Saudi Arabia welcomed Dr. Nourhan Hassan, President of the International Center for Governance & Compliance Consultancy (IGCC) and Governance & Compliance Advisor for Takkween. She was accompanied by Dr. Nasser, Risk Management Consultant at IGCC.",
+        "",
+        "The visit focused on discussing the implementation of the GRC (Governance, Risk, and Compliance) system within the group, along with a tour of Takkween’s factories across various regions in Saudi Arabia.",
+        "",
+        "This visit reflects Takkween’s commitment to adopting global best practices in governance and risk management, reinforcing compliance to ensure the sustainability and advancement of its industrial operations according to the highest standards"
+      ],
+      "description_ar": [
+        "زيارة د. نورهان حسن لمجموعة تكوين في المملكة العربية السعودية",
+        "",
+        "في إطار تعزيز التعاون وتطوير أنظمة الحوكمة والالتزام الرقابي، استقبلت مجموعة تكوين المتطورة للصناعات في المملكة العربية السعودية الدكتورة نورهان حسن، رئيس المركز الدولي لاستشارات الحوكمة وإدارة المشروعات (IGCC) ومستشار الحوكمة والالتزام الرقابي لشركة تكوين، يرافقها الدكتور ناصر، مستشار إدارة المخاطر في المركز الدولي (IGCC).",
+        "",
+        "تناولت الزيارة مناقشة سبل تطبيق نظام GRC (الحوكمة، المخاطر، والامتثال) داخل المجموعة، بالإضافة إلى زيارة المصانع التابعة لمجموعة تكوين في مختلف أنحاء المملكة.",
+        "",
+        "تعكس هذه الزيارة التزام مجموعة تكوين بتبني أفضل الممارسات العالمية في الحوكمة وإدارة المخاطر، وتعزيز الامتثال لضمان استدامة وتطور عملياتها الصناعية وفقًا لأعلى المعايير"
+      ],
+      "image": [
+        {
+          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/takkween-advanced-industries-group---grc-2024.png",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "date": "2025-03-03"
     }
   ]
 }
