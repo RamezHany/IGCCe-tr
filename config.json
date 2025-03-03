@@ -1,6 +1,5 @@
 {
-  "vimeoLink": "https://player.vimeo.com/video/1058579907?h=dcc436d4f4&badge=0&autopause=0&player_id=0&app_id=58479&muted=0&autoplay=1",
-  "doctorImage": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/doctor_1741022485733.jpg",
-  "summitImage": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/summit_1741022463185.jpg",
-  "doctorVideo": "https://player.vimeo.com/video/1058579907?h=dcc436d4f4&badge=0&autopause=0&player_id=0&app_id=58479&muted=0&autoplay=1"
+  "vimeoLink": "https://player.vimeo.com/video/1058579907?h=dcc436d4f4&badge=0&autopause=0&player_id=0&app_id=58479&muted=1&autoplay=1",
+  "doctorImage": "/images/Nourhan_m_Hassan.png",
+  "summitImage": "/images/summit.jpg"
 }
