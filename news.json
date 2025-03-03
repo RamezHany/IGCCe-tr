@@ -58,16 +58,18 @@
     },
     {
       "id": "3",
-      "slug": "kjbbhhj",
+      "slug": "corporate-governance",
       "title": "Corporate Governance",
       "title_ar": "حوكمة الشركات",
       "shortDescription": "Corporate governance best practices",
       "shortDescription_ar": "أفضل ممارسات حوكمة الشركات",
       "description": [
-        "Corporate governance best practices for modern organizations"
+        "Corporate governance best practices ",
+        "for modern organizations"
       ],
       "description_ar": [
-        "أفضل ممارسات حوكمة الشركات للمؤسسات الحديثة"
+        "أفضل ممارسات حوكمة ",
+        "الشركات للمؤسسات الحديثة"
       ],
       "image": [
         {
