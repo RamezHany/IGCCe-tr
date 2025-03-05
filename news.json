@@ -66,22 +66,25 @@
     },
     {
       "id": "3",
-      "slug": "corporate-governance",
-      "title": "Corporate Governance",
-      "title_ar": "حوكمة الشركات",
-      "shortDescription": "Corporate governance best practices",
-      "shortDescription_ar": "أفضل ممارسات حوكمة الشركات",
+      "slug": "the-inaugural-international-conference-on-community-diplomacy-pioneers,-with-igcc-as-a-bronze-sponsor",
+      "title": "The Inaugural International Conference on Community Diplomacy Pioneers, with IGCC as a Bronze Sponsor",
+      "title_ar": "إطلاق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة IGCC كرعاية برونزية",
+      "shortDescription": "The Inaugural International Conference on Community Diplomacy Pioneers has successfully launched, bringing together experts and specialists in governance",
+      "shortDescription_ar": "إطلاق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة IGCC كرعاية برونزية\nانطلق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة واسعة من خبراء ومتخصصين في مجالات الحوكمة والدبلوماسية المجتمعية، بهدف تسليط الضوء على أهمية الدبلوماسية المجتمعية في تعزيز ثقافة الحوكمة وبناء مجتمعات أكثر تماسكًا واستدامة.\nوقد حظي المؤتمر برعاية برونزية من IGCC – المركز الدولي لاستشارات الحوكمة وإدارة المشروعات، تأكيدًا على التزامه بدعم المبادرات التي تعزز الشفافية والمسؤولية المؤسسية على المستويين المحلي والدولي.\nوشهد المؤتمر حضورًا واسعًا من عدة دول عربية، شملت مصر، قطر، سلطنة عمان، الأردن، تونس، الجزائر، السعودية، وفلسطين، مما أضفى على الفعالية طابعًا إقليميًا مهمًا، وساهم في تبادل الخبرات والتجارب بين المشاركين.\nكما شاركت الدكتورة نورهان محمد حسن، رئيس مجلس إدارة IGCC، كمتحدثة رئيسية من خلال محاضرة بعنوان:\n📌 \"الدبلوماسية المجتمعية ودورها في تعزيز ثقافة الحوكمة\"\nوسلّطت المحاضرة الضوء على دور الحوكمة في تحقيق التنمية المستدامة، وأهمية التعاون المجتمعي في تعزيز الاستقرار والابتكار داخل المؤسسات والمجتمعات.\nوفي ختام المؤتمر، تم تكريم الدكتورة نورهان محمد حسن بدرع التميز، تقديرًا لدورها البارز في نشر ثقافة الحوكمة وتعزيز الدبلوماسية المجتمعية.\nيُعد هذا المؤتمر خطوة جديدة نحو مستقبل أكثر إشراقًا ووعيًا بأهمية الحوكمة والدبلوماسية المجتمعية، حيث جمع نخبة من الخبراء والممارسين لمناقشة أحدث الاتجاهات في هذا المجال",
       "description": [
-        "Corporate governance best practices ",
-        "for modern organizations"
+        "The Inaugural International Conference on Community Diplomacy Pioneers, with IGCC as a Bronze Sponsor",
+        "The Inaugural International Conference on Community Diplomacy Pioneers has successfully launched, bringing together experts and specialists in governance and community diplomacy. The conference aims to highlight the role of community diplomacy in promoting a culture of governance and building more cohesive and sustainable societies.",
+        "The event was proudly sponsored at the Bronze level by IGCC – The International Center for Governance Consulting and Project Management, reaffirming its commitment to supporting initiatives that enhance transparency and institutional responsibility both locally and internationally.",
+        "The conference saw wide participation from several Arab countries, including Egypt, Qatar, Oman, Jordan, Tunisia, Algeria, Saudi Arabia, and Palestine. This regional presence enriched the discussions, fostering the exchange of expertise and experiences among participants.",
+        "Additionally, Dr. Nourhan Mohamed Hassan, Chairwoman of IGCC, participated as a keynote speaker, delivering a lecture titled:",
+        "📌 \"Community Diplomacy and Its Role in Promoting a Culture of Governance"
       ],
       "description_ar": [
-        "أفضل ممارسات حوكمة ",
-        "الشركات للمؤسسات الحديثة"
+        "انطلق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة واسعة من خبراء ومتخصصين في مجالات الحوكمة والدبلوماسية المجتمعية، بهدف تسليط الضوء على أهمية الدبلوماسية المجتمعية في تعزيز ثقافة الحوكمة وبناء مجتمعات أكثر تماسكًا واستدامة."
       ],
       "image": [
         {
-          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/kjbbhhj.png",
+          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/the-inaugural-international-conference-on-community-diplomacy-pioneers,-with-igcc-as-a-bronze-sponsor.png",
           "width": 800,
           "height": 600
         }
