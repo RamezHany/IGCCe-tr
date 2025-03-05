@@ -98,32 +98,6 @@
         }
       ],
       "date": "2025-02-23"
-    },
-    {
-      "id": "1741029995377",
-      "slug": "annual-governance-workshop",
-      "title": "Annual Governance Workshop",
-      "title_ar": "ورشة عمل الحوكمة السنوية",
-      "shortDescription": "The Annual Governance Workshop concludes with participation from experts worldwide",
-      "shortDescription_ar": "اختتام ورشة عمل الحوكمة السنوية بمشاركة خبراء من جميع أنحاء العالم",
-      "description": [
-        "The Annual Governance Workshop has successfully concluded with over 300 participants.",
-        "The workshop discussed the latest developments in corporate governance and global best practices.",
-        "Distinguished experts and specialists from around the world participated in the workshop."
-      ],
-      "description_ar": [
-        "اختتمت ورشة عمل الحوكمة السنوية بنجاح بمشاركة أكثر من 300 مشارك.",
-        "ناقشت ورشة العمل أحدث التطورات في حوكمة الشركات وأفضل الممارسات العالمية.",
-        "شارك في ورشة العمل خبراء ومتخصصون بارزون من جميع أنحاء العالم."
-      ],
-      "image": [
-        {
-          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/annual-governance-workshop.jpeg",
-          "width": 800,
-          "height": 600
-        }
-      ],
-      "date": "2024-02-10"
     }
   ]
 }
