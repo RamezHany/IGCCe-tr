@@ -206,6 +206,28 @@
         }
       ],
       "date": "2025-03-05"
+    },
+    {
+      "id": "1745863737212",
+      "slug": "jfjfjfjj-fhfggf",
+      "title": "jfjfjfjj-fhfggf",
+      "title_ar": "تجربة",
+      "shortDescription": "short test",
+      "shortDescription_ar": "تجربه قصيرة",
+      "description": [
+        "long test"
+      ],
+      "description_ar": [
+        "تجربه طويله"
+      ],
+      "image": [
+        {
+          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/jfjfjfjj-fhfggf.jpg",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "date": "2025-04-28"
     }
   ]
 }
