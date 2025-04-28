@@ -252,28 +252,6 @@
         }
       ],
       "date": "2025-03-05"
-    },
-    {
-      "id": "1745862632523",
-      "slug": "fggf",
-      "title": "fggf",
-      "title_ar": "لاال",
-      "shortDescription": "gfgfgf",
-      "shortDescription_ar": "اابابلالا",
-      "description": [
-        "ghgjhj"
-      ],
-      "description_ar": [
-        "تلتاالتات"
-      ],
-      "image": [
-        {
-          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/fggf.jpg",
-          "width": 800,
-          "height": 600
-        }
-      ],
-      "date": "2025-04-28"
     }
   ]
 }
