@@ -1,106 +1,7 @@
 {
   "news": [
     {
-      "id": "1745856863174",
-      "slug": "takkween-advanced-industries-group-grc-2024",
-      "title": "Takkween Advanced Industries Group GRC 2024",
-      "title_ar": "مجموعة تكوين المتطورة للصناعات - GRC 2024",
-      "shortDescription": "Dr. Nourhan Hassan’s Visit to Takkween in Saudi Arabia",
-      "shortDescription_ar": "زيارة د. نورهان حسن لمجموعة تكوين في المملكة العربية السعودية",
-      "description": [
-        "Dr. Nourhan Hassan’s Visit to Takkween in Saudi Arabia",
-        "",
-        "As part of efforts to enhance cooperation and develop governance and compliance systems, Takkween Advanced Industries Group in Saudi Arabia welcomed Dr. Nourhan Hassan, President of the International Center for Governance & Compliance Consultancy (IGCC) and Governance & Compliance Advisor for Takkween. She was accompanied by Dr. Nasser, Risk Management Consultant at IGCC.",
-        "",
-        "The visit focused on discussing the implementation of the GRC (Governance, Risk, and Compliance) system within the group, along with a tour of Takkween’s factories across various regions in Saudi Arabia.",
-        "",
-        "This visit reflects Takkween’s commitment to adopting global best practices in governance and risk management, reinforcing compliance to ensure the sustainability and advancement of its industrial operations according to the highest standards"
-      ],
-      "description_ar": [
-        "زيارة د. نورهان حسن لمجموعة تكوين في المملكة العربية السعودية",
-        "",
-        "في إطار تعزيز التعاون وتطوير أنظمة الحوكمة والالتزام الرقابي، استقبلت مجموعة تكوين المتطورة للصناعات في المملكة العربية السعودية الدكتورة نورهان حسن، رئيس المركز الدولي لاستشارات الحوكمة وإدارة المشروعات (IGCC) ومستشار الحوكمة والالتزام الرقابي لشركة تكوين، يرافقها الدكتور ناصر، مستشار إدارة المخاطر في المركز الدولي (IGCC).",
-        "",
-        "تناولت الزيارة مناقشة سبل تطبيق نظام GRC (الحوكمة، المخاطر، والامتثال) داخل المجموعة، بالإضافة إلى زيارة المصانع التابعة لمجموعة تكوين في مختلف أنحاء المملكة.",
-        "",
-        "تعكس هذه الزيارة التزام مجموعة تكوين بتبني أفضل الممارسات العالمية في الحوكمة وإدارة المخاطر، وتعزيز الامتثال لضمان استدامة وتطور عملياتها الصناعية وفقًا لأعلى المعايير"
-      ],
-      "image": [
-        {
-          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/ooopppopo.png",
-          "width": 800,
-          "height": 600
-        }
-      ],
-      "date": "2025-03-03"
-    },
-    {
-      "id": "2",
-      "slug": "international-center-delivers-certified-compliance-officer-program-to-madayn-group-in-oman",
-      "title": "International Center Delivers Certified Compliance Officer Program to Madayn Group in Oman",
-      "title_ar": "المركز الدولي يقدم برنامج مسؤول الالتزام المعتمد لمجموعة مدائن في عُمان",
-      "shortDescription": "International Center for Governance Consulting and Project Management (ICGCPM) Delivers \"Certified Compliance Officer\" Program for Madayn Industrial Group in Oman",
-      "shortDescription_ar": "المركز الدولي لاستشارات الحوكمة وإدارة المشروعات يقدّم برنامج \"مسؤول الالتزام المعتمد\" لمجموعة \"مدائن\" الصناعية في سلطنة عُمان",
-      "description": [
-        "International Center for Governance Consulting and Project Management (ICGCPM) Delivers \"Certified Compliance Officer\" Program for Madayn Industrial Group in Oman",
-        "Oman – The International Center for Governance Consulting and Project Management (ICGCPM) has announced the delivery of the \"Certified Compliance Officer\" program for Madayn Industrial Group in the Sultanate of Oman. This initiative aims to strengthen the culture of compliance and governance within industrial institutions.",
-        "The program is designed to equip participants with the necessary knowledge and skills to ensure regulatory compliance and adherence to international standards, fostering transparency and integrity in the business environment.",
-        "Representatives of Madayn emphasized that this initiative aligns with their strategy to support institutional development and enhance the efficiency of human resources in the fields of compliance and governance. This, in turn, contributes to creating a sustainable and well-regulated business environment.",
-        "The International Center for Governance Consulting and Project Management (ICGCPM) is recognized as a leading provider of specialized training programs in compliance, risk management, and governance. Through its programs, the center aims to empower organizations and businesses to adopt global best practices in corporate governance and compliance."
-      ],
-      "description_ar": [
-        "المركز الدولي لاستشارات الحوكمة وإدارة المشروعات يقدّم برنامج \"مسؤول الالتزام المعتمد\" لمجموعة \"مدائن\" الصناعية في سلطنة عُمان",
-        "عُمان – أعلن المركز الدولي لاستشارات الحوكمة وإدارة المشروعات عن تقديم برنامج \"مسؤول الالتزام المعتمد\" لمجموعة \"مدائن\" الصناعية في سلطنة عُمان، وذلك في إطار جهوده لتعزيز ثقافة الامتثال والحوكمة في المؤسسات الصناعية.",
-        "يهدف البرنامج إلى تأهيل المشاركين بالمعرفة والمهارات اللازمة لضمان الامتثال التنظيمي والالتزام بالمعايير الدولية، مما يساهم في تعزيز الشفافية والنزاهة داخل بيئة الأعمال.",
-        "وأكد ممثلو \"مدائن\" أن هذه المبادرة تأتي ضمن استراتيجيتهم لدعم التطوير المؤسسي ورفع كفاءة الكوادر البشرية في مجال الامتثال والحوكمة، مما يعزز دور المجموعة في بناء بيئة أعمال مستدامة ومتوافقة مع الأنظمة المحلية والدولية.",
-        "يُذكر أن المركز الدولي لاستشارات الحوكمة وإدارة المشروعات يعدّ من الجهات الرائدة في تقديم البرامج التدريبية المتخصصة في الامتثال وإدارة المخاطر والحوكمة، حيث يسعى من خلال برامجه إلى تمكين المؤسسات والشركات من تبنّي أفضل الممارسات العالمية"
-      ],
-      "image": [
-        {
-          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/international-center-delivers-certified-compliance-officer-program-to-madayn-group-in-oman.png",
-          "width": 800,
-          "height": 600
-        }
-      ],
-      "date": "2025-02-24"
-    },
-    {
-      "id": "3",
-      "slug": "the-inaugural-international-conference-on-community-diplomacy-pioneers,-with-igcc-as-a-bronze-sponsor",
-      "title": "The Inaugural International Conference on Community Diplomacy Pioneers, with IGCC as a Bronze Sponsor",
-      "title_ar": "إطلاق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة IGCC كرعاية برونزية",
-      "shortDescription": "The Inaugural International Conference on Community Diplomacy Pioneers has successfully launched, bringing together experts and specialists in governance",
-      "shortDescription_ar": "انطلق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة واسعة من خبراء ومتخصصين في مجالات الحوكمة والدبلوماسية المجتمعية، بهدف تسليط الضوء على أهمية الدبلوماسية المجتمعية في تعزيز ثقافة الحوكمة وبناء مجتمعات أكثر تماسكًا واستدامة.",
-      "description": [
-        "The Inaugural International Conference on Community Diplomacy Pioneers, with IGCC as a Bronze Sponsor",
-        "The Inaugural International Conference on Community Diplomacy Pioneers has successfully launched, bringing together experts and specialists in governance and community diplomacy. The conference aims to highlight the role of community diplomacy in promoting a culture of governance and building more cohesive and sustainable societies.",
-        "The event was proudly sponsored at the Bronze level by IGCC – The International Center for Governance Consulting and Project Management, reaffirming its commitment to supporting initiatives that enhance transparency and institutional responsibility both locally and internationally.",
-        "The conference saw wide participation from several Arab countries, including Egypt, Qatar, Oman, Jordan, Tunisia, Algeria, Saudi Arabia, and Palestine. This regional presence enriched the discussions, fostering the exchange of expertise and experiences among participants.",
-        "Additionally, Dr. Nourhan Mohamed Hassan, Chairwoman of IGCC, participated as a keynote speaker, delivering a lecture titled:",
-        "📌 \"Community Diplomacy and Its Role in Promoting a Culture of Governance"
-      ],
-      "description_ar": [
-        "إطلاق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة IGCC كرعاية برونزية",
-        "انطلق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة واسعة من خبراء ومتخصصين في مجالات الحوكمة والدبلوماسية المجتمعية، بهدف تسليط الضوء على أهمية الدبلوماسية المجتمعية في تعزيز ثقافة الحوكمة وبناء مجتمعات أكثر تماسكًا واستدامة.",
-        "وقد حظي المؤتمر برعاية برونزية من IGCC – المركز الدولي لاستشارات الحوكمة وإدارة المشروعات، تأكيدًا على التزامه بدعم المبادرات التي تعزز الشفافية والمسؤولية المؤسسية على المستويين المحلي والدولي.",
-        "وشهد المؤتمر حضورًا واسعًا من عدة دول عربية، شملت مصر، قطر، سلطنة عمان، الأردن، تونس، الجزائر، السعودية، وفلسطين، مما أضفى على الفعالية طابعًا إقليميًا مهمًا، وساهم في تبادل الخبرات والتجارب بين المشاركين.",
-        "كما شاركت الدكتورة نورهان محمد حسن، رئيس مجلس إدارة IGCC، كمتحدثة رئيسية من خلال محاضرة بعنوان:",
-        "📌 \"الدبلوماسية المجتمعية ودورها في تعزيز ثقافة الحوكمة\"",
-        "وسلّطت المحاضرة الضوء على دور الحوكمة في تحقيق التنمية المستدامة، وأهمية التعاون المجتمعي في تعزيز الاستقرار والابتكار داخل المؤسسات والمجتمعات.",
-        "وفي ختام المؤتمر، تم تكريم الدكتورة نورهان محمد حسن بدرع التميز، تقديرًا لدورها البارز في نشر ثقافة الحوكمة وتعزيز الدبلوماسية المجتمعية.",
-        "يُعد هذا المؤتمر خطوة جديدة نحو مستقبل أكثر إشراقًا ووعيًا بأهمية الحوكمة والدبلوماسية المجتمعية، حيث جمع نخبة من الخبراء والممارسين لمناقشة أحدث الاتجاهات في هذا المجال"
-      ],
-      "image": [
-        {
-          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/the-inaugural-international-conference-on-community-diplomacy-pioneers,-with-igcc-as-a-bronze-sponsor.png",
-          "width": 800,
-          "height": 600
-        }
-      ],
-      "date": "2025-02-23"
-    },
-    {
-      "id": "1",
+      "id": "1745856888368",
       "slug": "the-arab-forum-for-governance-and-sustainable-development-under-the-patronage-of-igcc",
       "title": "The Arab Forum for Governance and Sustainable Development Under the Patronage of IGCC",
       "title_ar": "الملتقى العربي للحوكمة والتنمية المستدامة تحت رعاية IGCC",
@@ -206,6 +107,105 @@
         }
       ],
       "date": "2025-03-05"
+    },
+    {
+      "id": "2",
+      "slug": "international-center-delivers-certified-compliance-officer-program-to-madayn-group-in-oman",
+      "title": "International Center Delivers Certified Compliance Officer Program to Madayn Group in Oman",
+      "title_ar": "المركز الدولي يقدم برنامج مسؤول الالتزام المعتمد لمجموعة مدائن في عُمان",
+      "shortDescription": "International Center for Governance Consulting and Project Management (ICGCPM) Delivers \"Certified Compliance Officer\" Program for Madayn Industrial Group in Oman",
+      "shortDescription_ar": "المركز الدولي لاستشارات الحوكمة وإدارة المشروعات يقدّم برنامج \"مسؤول الالتزام المعتمد\" لمجموعة \"مدائن\" الصناعية في سلطنة عُمان",
+      "description": [
+        "International Center for Governance Consulting and Project Management (ICGCPM) Delivers \"Certified Compliance Officer\" Program for Madayn Industrial Group in Oman",
+        "Oman – The International Center for Governance Consulting and Project Management (ICGCPM) has announced the delivery of the \"Certified Compliance Officer\" program for Madayn Industrial Group in the Sultanate of Oman. This initiative aims to strengthen the culture of compliance and governance within industrial institutions.",
+        "The program is designed to equip participants with the necessary knowledge and skills to ensure regulatory compliance and adherence to international standards, fostering transparency and integrity in the business environment.",
+        "Representatives of Madayn emphasized that this initiative aligns with their strategy to support institutional development and enhance the efficiency of human resources in the fields of compliance and governance. This, in turn, contributes to creating a sustainable and well-regulated business environment.",
+        "The International Center for Governance Consulting and Project Management (ICGCPM) is recognized as a leading provider of specialized training programs in compliance, risk management, and governance. Through its programs, the center aims to empower organizations and businesses to adopt global best practices in corporate governance and compliance."
+      ],
+      "description_ar": [
+        "المركز الدولي لاستشارات الحوكمة وإدارة المشروعات يقدّم برنامج \"مسؤول الالتزام المعتمد\" لمجموعة \"مدائن\" الصناعية في سلطنة عُمان",
+        "عُمان – أعلن المركز الدولي لاستشارات الحوكمة وإدارة المشروعات عن تقديم برنامج \"مسؤول الالتزام المعتمد\" لمجموعة \"مدائن\" الصناعية في سلطنة عُمان، وذلك في إطار جهوده لتعزيز ثقافة الامتثال والحوكمة في المؤسسات الصناعية.",
+        "يهدف البرنامج إلى تأهيل المشاركين بالمعرفة والمهارات اللازمة لضمان الامتثال التنظيمي والالتزام بالمعايير الدولية، مما يساهم في تعزيز الشفافية والنزاهة داخل بيئة الأعمال.",
+        "وأكد ممثلو \"مدائن\" أن هذه المبادرة تأتي ضمن استراتيجيتهم لدعم التطوير المؤسسي ورفع كفاءة الكوادر البشرية في مجال الامتثال والحوكمة، مما يعزز دور المجموعة في بناء بيئة أعمال مستدامة ومتوافقة مع الأنظمة المحلية والدولية.",
+        "يُذكر أن المركز الدولي لاستشارات الحوكمة وإدارة المشروعات يعدّ من الجهات الرائدة في تقديم البرامج التدريبية المتخصصة في الامتثال وإدارة المخاطر والحوكمة، حيث يسعى من خلال برامجه إلى تمكين المؤسسات والشركات من تبنّي أفضل الممارسات العالمية"
+      ],
+      "image": [
+        {
+          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/international-center-delivers-certified-compliance-officer-program-to-madayn-group-in-oman.png",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "date": "2025-02-24"
+    },
+    {
+      "id": "3",
+      "slug": "the-inaugural-international-conference-on-community-diplomacy-pioneers,-with-igcc-as-a-bronze-sponsor",
+      "title": "The Inaugural International Conference on Community Diplomacy Pioneers, with IGCC as a Bronze Sponsor",
+      "title_ar": "إطلاق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة IGCC كرعاية برونزية",
+      "shortDescription": "The Inaugural International Conference on Community Diplomacy Pioneers has successfully launched, bringing together experts and specialists in governance",
+      "shortDescription_ar": "انطلق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة واسعة من خبراء ومتخصصين في مجالات الحوكمة والدبلوماسية المجتمعية، بهدف تسليط الضوء على أهمية الدبلوماسية المجتمعية في تعزيز ثقافة الحوكمة وبناء مجتمعات أكثر تماسكًا واستدامة.",
+      "description": [
+        "The Inaugural International Conference on Community Diplomacy Pioneers, with IGCC as a Bronze Sponsor",
+        "The Inaugural International Conference on Community Diplomacy Pioneers has successfully launched, bringing together experts and specialists in governance and community diplomacy. The conference aims to highlight the role of community diplomacy in promoting a culture of governance and building more cohesive and sustainable societies.",
+        "The event was proudly sponsored at the Bronze level by IGCC – The International Center for Governance Consulting and Project Management, reaffirming its commitment to supporting initiatives that enhance transparency and institutional responsibility both locally and internationally.",
+        "The conference saw wide participation from several Arab countries, including Egypt, Qatar, Oman, Jordan, Tunisia, Algeria, Saudi Arabia, and Palestine. This regional presence enriched the discussions, fostering the exchange of expertise and experiences among participants.",
+        "Additionally, Dr. Nourhan Mohamed Hassan, Chairwoman of IGCC, participated as a keynote speaker, delivering a lecture titled:",
+        "📌 \"Community Diplomacy and Its Role in Promoting a Culture of Governance"
+      ],
+      "description_ar": [
+        "إطلاق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة IGCC كرعاية برونزية",
+        "انطلق المؤتمر الدولي الأول لرواد الدبلوماسية المجتمعية بمشاركة واسعة من خبراء ومتخصصين في مجالات الحوكمة والدبلوماسية المجتمعية، بهدف تسليط الضوء على أهمية الدبلوماسية المجتمعية في تعزيز ثقافة الحوكمة وبناء مجتمعات أكثر تماسكًا واستدامة.",
+        "وقد حظي المؤتمر برعاية برونزية من IGCC – المركز الدولي لاستشارات الحوكمة وإدارة المشروعات، تأكيدًا على التزامه بدعم المبادرات التي تعزز الشفافية والمسؤولية المؤسسية على المستويين المحلي والدولي.",
+        "وشهد المؤتمر حضورًا واسعًا من عدة دول عربية، شملت مصر، قطر، سلطنة عمان، الأردن، تونس، الجزائر، السعودية، وفلسطين، مما أضفى على الفعالية طابعًا إقليميًا مهمًا، وساهم في تبادل الخبرات والتجارب بين المشاركين.",
+        "كما شاركت الدكتورة نورهان محمد حسن، رئيس مجلس إدارة IGCC، كمتحدثة رئيسية من خلال محاضرة بعنوان:",
+        "📌 \"الدبلوماسية المجتمعية ودورها في تعزيز ثقافة الحوكمة\"",
+        "وسلّطت المحاضرة الضوء على دور الحوكمة في تحقيق التنمية المستدامة، وأهمية التعاون المجتمعي في تعزيز الاستقرار والابتكار داخل المؤسسات والمجتمعات.",
+        "وفي ختام المؤتمر، تم تكريم الدكتورة نورهان محمد حسن بدرع التميز، تقديرًا لدورها البارز في نشر ثقافة الحوكمة وتعزيز الدبلوماسية المجتمعية.",
+        "يُعد هذا المؤتمر خطوة جديدة نحو مستقبل أكثر إشراقًا ووعيًا بأهمية الحوكمة والدبلوماسية المجتمعية، حيث جمع نخبة من الخبراء والممارسين لمناقشة أحدث الاتجاهات في هذا المجال"
+      ],
+      "image": [
+        {
+          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/the-inaugural-international-conference-on-community-diplomacy-pioneers,-with-igcc-as-a-bronze-sponsor.png",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "date": "2025-02-23"
+    },
+    {
+      "id": "1",
+      "slug": "takkween-advanced-industries-group-grc-2024",
+      "title": "Takkween Advanced Industries Group GRC 2024",
+      "title_ar": "مجموعة تكوين المتطورة للصناعات - GRC 2024",
+      "shortDescription": "Dr. Nourhan Hassan’s Visit to Takkween in Saudi Arabia",
+      "shortDescription_ar": "زيارة د. نورهان حسن لمجموعة تكوين في المملكة العربية السعودية",
+      "description": [
+        "Dr. Nourhan Hassan’s Visit to Takkween in Saudi Arabia",
+        "",
+        "As part of efforts to enhance cooperation and develop governance and compliance systems, Takkween Advanced Industries Group in Saudi Arabia welcomed Dr. Nourhan Hassan, President of the International Center for Governance & Compliance Consultancy (IGCC) and Governance & Compliance Advisor for Takkween. She was accompanied by Dr. Nasser, Risk Management Consultant at IGCC.",
+        "",
+        "The visit focused on discussing the implementation of the GRC (Governance, Risk, and Compliance) system within the group, along with a tour of Takkween’s factories across various regions in Saudi Arabia.",
+        "",
+        "This visit reflects Takkween’s commitment to adopting global best practices in governance and risk management, reinforcing compliance to ensure the sustainability and advancement of its industrial operations according to the highest standards"
+      ],
+      "description_ar": [
+        "زيارة د. نورهان حسن لمجموعة تكوين في المملكة العربية السعودية",
+        "",
+        "في إطار تعزيز التعاون وتطوير أنظمة الحوكمة والالتزام الرقابي، استقبلت مجموعة تكوين المتطورة للصناعات في المملكة العربية السعودية الدكتورة نورهان حسن، رئيس المركز الدولي لاستشارات الحوكمة وإدارة المشروعات (IGCC) ومستشار الحوكمة والالتزام الرقابي لشركة تكوين، يرافقها الدكتور ناصر، مستشار إدارة المخاطر في المركز الدولي (IGCC).",
+        "",
+        "تناولت الزيارة مناقشة سبل تطبيق نظام GRC (الحوكمة، المخاطر، والامتثال) داخل المجموعة، بالإضافة إلى زيارة المصانع التابعة لمجموعة تكوين في مختلف أنحاء المملكة.",
+        "",
+        "تعكس هذه الزيارة التزام مجموعة تكوين بتبني أفضل الممارسات العالمية في الحوكمة وإدارة المخاطر، وتعزيز الامتثال لضمان استدامة وتطور عملياتها الصناعية وفقًا لأعلى المعايير"
+      ],
+      "image": [
+        {
+          "url": "https://raw.githubusercontent.com/RamezHany/IGCCe-tr/main/images/ooopppopo.png",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "date": "2025-03-03"
     }
   ]
 }
